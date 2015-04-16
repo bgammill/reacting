@@ -1,9 +1,9 @@
 var data = [
-    {first: 'Bobby', last: 'Gammill'},
-    {first: 'Jennifer', last: 'Rich'},
-    {first: 'Christopher', last: 'Brown'},
+    {first: 'Omar', last: 'Shari'},
+    {first: 'Audrey', last: 'Hepburn'},
+    {first: 'Marilyn', last: 'Moinroe'},
     {first: 'Alex', last: 'DiAntonio'},
-    {first: 'Alex', last: 'Morris'}
+    {first: 'Manuel', last: 'Castellano'}
 ];
 
 var Person = React.createClass({
